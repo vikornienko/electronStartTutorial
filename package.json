@@ -1,0 +1,19 @@
+{
+  "name": "learnelectron",
+  "version": "1.0.0",
+  "description": "Study projects electron js.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "js"
+  ],
+  "author": "vikornienko",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^38.1.2"
+  }
+}
